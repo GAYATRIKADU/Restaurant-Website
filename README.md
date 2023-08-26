@@ -1,1 +1,2 @@
-# Restaurant-Website [ https://gayatrikadu.github.io/Restaurant-Website/ ]
+# Restaurant-Website
+[ https://gayatrikadu.github.io/Restaurant-Website/ ]
